@@ -20,15 +20,15 @@ This repository hosts the complete source code for a decentralized savings bank 
 3. Install any necessary dependencies as specified in the project's README file.
 4. Launch the web application by opening the HTML file in a modern web browser.
 
-- Contributions:
+- **Contributions**:
 
 I welcome contributions from the open-source community! If you'd like to contribute to the development of the Decentralized Savings Bank project, please review our contribution guidelines in the 'CONTRIBUTING.md' file.
 
-**License:**
+- ****License**:**
 
 Decentralized Savings Bank is open-source software released under the MIT License. See the 'LICENSE' file for licensing details.
 
-**Contact:**
+- ****Contact**:**
 
 For inquiries, feedback, or support, please contact the project maintainers:
 Aditya Kumar Singh - adityakumar.singh2020a@vitstudent.ac.in
