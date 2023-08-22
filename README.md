@@ -3,7 +3,7 @@ This repository hosts the complete source code for a decentralized savings bank 
 
 - **Features:**
 
-1. Smart Contract**: A Solidity smart contract powers the savings bank. It includes features like depositing and withdrawing funds while maintaining transparency and security.
+1. Smart Contract: A Solidity smart contract powers the savings bank. It includes features like depositing and withdrawing funds while maintaining transparency and security.
 
 2. Frontend Interface**: A beautiful and intuitive web interface allows users to interact with the smart contract seamlessly. Users can check their balances, make deposits, and withdraw funds effortlessly.
 
