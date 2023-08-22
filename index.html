@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Bank</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <h1>Simple Bank</h1>
+    <div>
+      <h2>Your Balance: <span id="balance">0</span> ETH</h2>
+      <input type="number" id="amount" placeholder="Amount in ETH" />
+      <button onclick="deposit()">Deposit</button>
+      <button onclick="withdraw()">Withdraw</button>
+    </div>
+    <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
