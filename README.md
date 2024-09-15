@@ -1,4 +1,5 @@
-🏦 Decentralized Savings Bank 🌐
+**🏦 Decentralized Savings Bank 🌐**
+
 Welcome to the Decentralized Savings Bank repository! 🚀 This project combines the power of blockchain technology with a sleek user interface to offer a secure and efficient way to manage your savings. Dive into the world of decentralized finance with us! 💰🔒
 
 🌟 Features
